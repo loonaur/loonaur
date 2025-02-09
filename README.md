@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maria</h1>
+<h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">A passionate AI student with a strong interest in programming, data analysis, and machine learning.</h3>
 
 - 🔭 I’m currently working on a [Verbal implementation of game using LLMs on a social robot](https://github.com/loonaur/Verbal-implementation-of-WOW-game-using-LLMs.git)
