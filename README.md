@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mariacatarinavieira@gmail.com**
 
-- ⚡ Fun fact **I play the clarinet :3 really good at it too**
+- ⚡ Fun fact **I play the clarinet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
